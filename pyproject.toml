@@ -3,7 +3,7 @@ build-backend = "maturin"
 requires = ["maturin>=1.0,<2.0", "polars>=0.19.11"]
 
 [project]
-name = "polars_s2"
+name = "polars-s2"
 version = "0.1.0"
 authors = [
     { name = "Tyler Anderson", email = "31015976+tylanderson@users.noreply.github.com" },
